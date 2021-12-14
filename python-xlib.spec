@@ -4,7 +4,7 @@
 #
 Name     : python-xlib
 Version  : 0.31
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/40/9c/107e22f637d33434404c07d69112b9d26b76ee0dd4dd705131ab6cdcc818/python-xlib-0.31.tar.gz
 Source0  : https://files.pythonhosted.org/packages/40/9c/107e22f637d33434404c07d69112b9d26b76ee0dd4dd705131ab6cdcc818/python-xlib-0.31.tar.gz
 Summary  : Python X Library
